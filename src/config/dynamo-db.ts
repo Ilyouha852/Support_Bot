@@ -1,0 +1,1 @@
+export { docClient } from '../db/dynamodb.js';
